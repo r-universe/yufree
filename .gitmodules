@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "enviGCMS"]
+	path = enviGCMS
+	url = https://github.com/yufree/envigcms
+	shallow = true
+	registered = true
+[submodule "pmd"]
+	path = pmd
+	url = https://github.com/yufree/pmd
+	shallow = true
+	registered = true
+[submodule "rgabriel"]
+	path = rgabriel
+	url = https://github.com/yufree/rgabriel
+	shallow = true
+	registered = true

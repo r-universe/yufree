@@ -1,0 +1,14 @@
+[
+  {
+    "package": "enviGCMS",
+    "oncran": true
+  },
+  {
+    "package": "pmd",
+    "oncran": true
+  },
+  {
+    "package": "rgabriel",
+    "oncran": true
+  }
+]
